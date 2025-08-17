@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nithini</h1>
 <h3 align="center">Student of SUSL</h3>
 
-- 🌱 I’m currently learning **BSc. Honours Computing & Information Systems**
+- 🌱 I’m currently learning **BSc.(Hons) in Computing & Information Systems**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
