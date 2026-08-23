@@ -6,7 +6,44 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Future+Software+Engineer;Tech+Enthusiast;Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
+<!-- Animated Header with Avatar Girl -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif" width="100" />
+</p>
 
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=Hi+👋+I'm+Nithini;Future+Tech+Girl+💻;Student+at+SUSL+🎓;Welcome+to+my+profile!+✨" alt="Typing SVG" />
+</h1>
+
+<!-- Avatar Girl Banner -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Student-SUSL-ff69b4?style=for-the-badge&logo=school&logoColor=white" />
+  <img src="https://img.shields.io/badge/Focus-Computing%20%26%20IS-ff6b6b?style=for-the-badge&logo=code&logoColor=white" />
+</p>
+
+---
+
+## 🌸 About Me
+
+```python
+class Nithini:
+    def __init__(self):
+        self.name = "Nithini"
+        self.role = "Student at SUSL"
+        self.course = "BSc.(Hons) in Computing & Information Systems"
+        self.interests = ["Web Development", "UI/UX Design", "Cloud Computing"]
+        self.currently_learning = "Full Stack Development"
+        self.fun_fact = "I love coding and painting! 🎨"
+    
+    def say_hi(self):
+        print("Thanks for visiting my profile! Let's connect 💕")
+
+me = Nithini()
+me.say_hi()
 ---
 
 ### 🎓 About Me
