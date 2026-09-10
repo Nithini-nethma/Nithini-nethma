@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://readme-typing-svg.herokuapp.com">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=650&lines=Business+Analyst;Computing+%26+Information+Systems+Student;Full+Stack+%26+Mobile+Developer;Data-Driven+Problem+Solver" alt="Typing Header" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=650&lines=Business+Analyst+Intern;Computing+%26+Information+Systems+Student;Full+Stack+%26+Mobile+Developer;Data-Driven+Problem+Solver" alt="Typing Header" />
   </a>
 </p>
 
@@ -49,7 +49,7 @@
 </p>
 
 <details open>
-  <summary><b>🚀 Detailed Skills Breakdown</b> <i>(Click to expand / collapse)</i></summary>
+  <summary><b>🚀 Categorized Skills Breakdown</b> <i>(Click to expand / collapse)</i></summary>
   <br />
 
 #### ⚙️ Programming Languages
@@ -104,16 +104,17 @@
 ## 🏆 GitHub Achievements & Analytics
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Nithini-nethma&theme=tokyonight&no-frame=true&no-background=true&margin-w=15" alt="GitHub Trophies" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nithini-nethma&theme=dracula" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nithini-nethma&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
-  <img src="https://github-readme-streak-stats.vercel.app/?user=Nithini-nethma&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://streak-stats.demolab.com/?user=Nithini-nethma&theme=dracula" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Nithini-nethma&theme=dracula" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nithini-nethma&theme=tokyonight&hide_border=true&layout=compact" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Nithini-nethma&theme=dracula" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nithini-nethma&theme=dracula" width="48%" />
 </p>
 
 ---
