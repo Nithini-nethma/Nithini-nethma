@@ -12,9 +12,13 @@
 <!-- ============================================ -->
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png" width="130" style="border-radius: 50%; border: 3px solid #00BFFF;" />
-  <br />
-  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="280" />
+  <span style="background-color: #ffffff; padding: 10px; border-radius: 50%; display: inline-block; box-shadow: 0 0 25px #00BFFF;">
+    <img src="https://user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png" width="120" style="border-radius: 50%; display: block;" />
+  </span>
+  <br /><br />
+  <span style="background-color: #ffffff; padding: 8px 16px; border-radius: 20px; display: inline-block; box-shadow: 0 0 25px #8A2BE2;">
+    <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="270" style="border-radius: 12px; display: block;" />
+  </span>
 </p>
 
 <p align="center">
