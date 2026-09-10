@@ -14,13 +14,13 @@
 
 <p align="center">
   <a href="https://readme-typing-svg.herokuapp.com">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=650&lines=Business+Analyst+Intern;Computing+%26+Information+Systems+Student;Full+Stack+%26+Mobile+Developer;Data-Driven+Problem+Solver" alt="Typing Header" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=650&lines=Business+Analyst;Undergraduate+Computing+%26+Information+Systems;Full+Stack+%26+Mobile+Developer;Data-Driven+Problem+Solver" alt="Typing Header" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/Nithini-nethma"><img src="https://img.shields.io/badge/Status-Open_for_Internships_&_Projects-00BFFF?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/nethma-kasthuriarachchi"><img src="https://img.shields.io/badge/LinkedIn-Connect_Now-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/Nithini-nethma"><img src="https://img.shields.io/badge/Status-Open_for_Internships_&_Projects-00BFFF?style=flat-square&logo=github&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/nethma-kasthuriarachchi"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
 </p>
 
 ---
@@ -28,7 +28,7 @@
 ### ⚡ Interactive Quick Overview
 
 <details open>
-  <summary><b>🔍 About Me</b> <i>(Click to expand / collapse)</i></summary>
+  <summary><b>🔍 About Me</b> </summary>
   <br />
 
   - 🎓 **Undergraduate**: Computing & Information Systems Student passionate about bridging software & business analytics.
@@ -106,13 +106,15 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/nethma-kasthuriarachchi" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="50" height="50" alt="LinkedIn" />
   </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/Nithini-nethma" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://skillicons.dev/icons?i=github&theme=dark" width="50" height="50" alt="GitHub" />
   </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:nethmakasthuriarachchi@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://skillicons.dev/icons?i=gmail&theme=dark" width="50" height="50" alt="Gmail" />
   </a>
 </p>
 
