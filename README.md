@@ -1,13 +1,13 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,50:8A2BE2,100:FF1493&height=180&section=header&text=Nethma%20Kasthuriarachchi&fontSize=34&fontColor=ffffff&animation=twinkling" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00BFFF,100:8A2BE2&height=180&section=header&text=Nethma%20Kasthuriarachchi&fontSize=34&fontColor=ffffff&animation=twinkling" width="100%" />
 </p>
 
 <!-- ============================================ -->
-<!-- 🎀 AVATAR & DYNAMIC TYPING HEADER -->
+<!-- 🎀 DARK MODE AVATAR & DYNAMIC TYPING HEADER -->
 <!-- ============================================ -->
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png" width="130" style="border-radius: 50%;" />
+  <img src="https://user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png" width="130" style="border-radius: 50%; border: 3px solid #00BFFF;" />
   <br />
   <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="280" />
 </p>
@@ -19,8 +19,8 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Nithini-nethma"><img src="https://img.shields.io/badge/Status-Open_for_Internships_&_Projects-00BFFF?style=flat-square&logo=github&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/nethma-kasthuriarachchi"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/Nithini-nethma"><img src="https://img.shields.io/badge/Status-Open_for_Internships_&_Projects-00BFFF?style=flat-square&logo=github&logoColor=white&color=0D1117" /></a>
+  <a href="https://www.linkedin.com/in/nethma-kasthuriarachchi"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white&color=0D1117" /></a>
 </p>
 
 ---
@@ -28,7 +28,7 @@
 ### ⚡ Interactive Quick Overview
 
 <details open>
-  <summary><b>🔍 About Me</b> </summary>
+  <summary><b>🔍 About Me</b> <i>(Click to expand / collapse)</i></summary>
   <br />
 
   - 🎓 **Undergraduate**: Computing & Information Systems Student passionate about bridging software & business analytics.
@@ -84,20 +84,28 @@
 
 ---
 
-## 🏆 GitHub Achievements & Analytics
+## 🏆 GitHub Achievements & Analytics (Dark Mode)
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nithini-nethma&theme=dracula" width="100%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nithini-nethma&theme=github_dark" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Nithini-nethma&theme=dracula" width="48%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Nithini-nethma&theme=dracula" width="48%" />
+  <img src="https://streak-stats.demolab.com/?user=Nithini-nethma&theme=dark&background=0D1117&fire=00BFFF&ring=00BFFF&currStreakNum=ffffff" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Nithini-nethma&theme=github_dark" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Nithini-nethma&theme=dracula" width="48%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nithini-nethma&theme=dracula" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Nithini-nethma&theme=github_dark" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nithini-nethma&theme=github_dark" width="48%" />
+</p>
+
+---
+
+## 🐍 Contribution Snake Game (Dark Mode)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Nithini-nethma/Nithini-nethma/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation Dark" />
 </p>
 
 ---
@@ -121,7 +129,7 @@
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,50:8A2BE2,100:FF1493&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00BFFF,100:8A2BE2&height=100&section=footer" />
 </p>
 
 <p align="center">
