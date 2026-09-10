@@ -1,3 +1,8 @@
+<div align="center">
+<table width="100%" style="background-color: #0d1117;">
+<tr>
+<td bgcolor="#0d1117" style="background-color: #0d1117; color: #ffffff; padding: 25px; border-radius: 16px;">
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00BFFF,100:8A2BE2&height=180&section=header&text=Nethma%20Kasthuriarachchi&fontSize=34&fontColor=ffffff&animation=twinkling" width="100%" />
 </p>
@@ -25,7 +30,7 @@
 
 ---
 
-### ⚡ Interactive Quick Overview
+<h3 align="left">⚡ Interactive Quick Overview</h3>
 
 <details open>
   <summary><b>🔍 About Me</b> <i>(Click to expand / collapse)</i></summary>
@@ -40,7 +45,7 @@
 
 ---
 
-## 💻 Tech Stack & Tooling
+<h2 align="left">💻 Tech Stack & Tooling</h2>
 
 <details open>
   <summary><b>🚀 Skills Breakdown</b> <i>(Click to expand / collapse)</i></summary>
@@ -84,7 +89,7 @@
 
 ---
 
-## 🏆 GitHub Achievements & Analytics (Dark Mode)
+<h2 align="left">🏆 GitHub Achievements & Analytics</h2>
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nithini-nethma&theme=github_dark" width="100%" />
@@ -102,7 +107,7 @@
 
 ---
 
-## 🐍 Contribution Snake Game (Dark Mode)
+<h2 align="left">🐍 Contribution Snake Game</h2>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation Dark" />
@@ -110,7 +115,7 @@
 
 ---
 
-## 🔗 Connect With Me
+<h2 align="left">🔗 Connect With Me</h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/nethma-kasthuriarachchi" target="_blank">
@@ -139,3 +144,8 @@
 <p align="center">
   ⭐ <i>Thanks for visiting my GitHub profile! Feel free to reach out for collaborations.</i>
 </p>
+
+</td>
+</tr>
+</table>
+</div>
