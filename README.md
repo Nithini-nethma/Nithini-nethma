@@ -105,7 +105,7 @@
 ## 🐍 Contribution Snake Game (Dark Mode)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Nithini-nethma/Nithini-nethma/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation Dark" />
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation Dark" />
 </p>
 
 ---
