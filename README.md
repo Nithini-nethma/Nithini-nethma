@@ -1,117 +1,147 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,50:8A2BE2,100:FF1493&height=180&section=header&text=Nethma%20Kasthuriarachchi&fontSize=34&fontColor=ffffff&animation=twinkling" width="100%" />
+</p>
+
 <!-- ============================================ -->
-<!-- 🎀 GIRL DEVELOPER AVATAR -->
+<!-- 🎀 AVATAR & DYNAMIC TYPING HEADER -->
 <!-- ============================================ -->
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png" width="150" />
+  <img src="https://user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png" width="130" style="border-radius: 50%;" />
   <br />
-  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="300" />
+  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="280" />
 </p>
-
-<h1 align="center">Hi 👋, I'm Nethma Kasthuriarachchi</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=650&lines=Business+Analyst+Intern;Computing+%26+Information+Systems+Student;Technology+Enthusiast;Problem+Solver" />
+  <a href="https://readme-typing-svg.herokuapp.com">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=650&lines=Business+Analyst;Computing+%26+Information+Systems+Student;Full+Stack+%26+Mobile+Developer;Data-Driven+Problem+Solver" alt="Typing Header" />
+  </a>
 </p>
 
-
-
-## 💻 Tech Stack
-
-### Programming Languages
-<p align="left">
-  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white&color=0D1117" />
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white&color=0D1117" />
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E&color=0D1117" />
-  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white&color=0D1117" />
-  <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white&color=0D1117" />
-</p>
-
-### Front-End
-<p align="left">
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white&color=0D1117" />
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white&color=0D1117" />
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB&color=0D1117" />
-  <img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB&color=0D1117" />
-  <img src="https://img.shields.io/badge/next.js-black?style=for-the-badge&logo=next.js&logoColor=white&color=0D1117" />
-  <img src="https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37&color=0D1117" />
-  <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white&color=0D1117" />
-  <img src="https://img.shields.io/badge/flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white&color=0D1117" />
-</p>
-
-### Back-End
-<p align="left">
-  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white&color=0D1117" />
-  <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB&color=0D1117" />
-  <img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white&color=0D1117" />
-</p>
-
-### Cloud & DevOps
-<p align="left">
-  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white&color=0D1117" />
-  <img src="https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white&color=0D1117" />
-</p>
-
-### Databases
-<p align="left">
-  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white&color=0D1117" />
-  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white&color=0D1117" />
-</p>
-
-### Design & Tools
-<p align="left">
-  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white&color=0D1117" />
-  <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white&color=0D1117" />
-  <img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white&color=0D1117" />
-</p>
-
-### Project Management & Collaboration
-<p align="left">
-  <img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white&color=0D1117" />
-  <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white&color=0D1117" />
-  <img src="https://img.shields.io/badge/postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white&color=0D1117" />
-  <img src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black&color=0D1117" />
+<p align="center">
+  <a href="https://github.com/Nithini-nethma"><img src="https://img.shields.io/badge/Status-Open_for_Internships_&_Projects-00BFFF?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/nethma-kasthuriarachchi"><img src="https://img.shields.io/badge/LinkedIn-Connect_Now-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
 ---
 
-## 📊 GitHub Stats
+### ⚡ Interactive Quick Overview
+
+<details open>
+  <summary><b>🔍 About Me</b> <i>(Click to expand / collapse)</i></summary>
+  <br />
+
+  - 🎓 **Undergraduate**: Computing & Information Systems Student passionate about bridging software & business analytics.
+  - 💼 **Current Role**: Business Analyst Intern focused on requirements engineering, process modeling & Power BI reporting.
+  - 🛠 **Core Strengths**: Systems Analysis, Power BI Dashboards, Full-Stack Web Development (React, Next.js, Node.js), Mobile Apps (React Native, Flutter).
+  - 🌱 **Currently Learning**: Cloud Solutions Architecture (AWS) & Applied Data Science.
+  - 💬 **Ask me about**: System modeling, data visualization, UI/UX prototyping in Figma, and web engineering.
+</details>
+
+---
+
+## 💻 Tech Stack & Tooling
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nithini-nethma&theme=dark&hide_border=true&bg_color=0D1117&include_all_commits=true&count_private=true" width="48%" />
-  <img src="https://github-readme-streak-stats.vercel.app/?user=Nithini-nethma&theme=dark&hide_border=true&background=0D1117" width="48%" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,java,c,php,html,css,react,nextjs,flutter,nodejs,express,laravel,mysql,mongodb,aws,figma,ps,postman,notion&theme=dark" />
+  </a>
+</p>
+
+<details open>
+  <summary><b>🚀 Detailed Skills Breakdown</b> <i>(Click to expand / collapse)</i></summary>
+  <br />
+
+#### ⚙️ Programming Languages
+<p align="left">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+</p>
+
+#### 🎨 Front-End & Mobile
+<p align="left">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Expo-000000?style=for-the-badge&logo=expo&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</p>
+
+#### ⚡ Back-End & Databases
+<p align="left">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+</p>
+
+#### 📊 Business Analysis & Analytics
+<p align="left">
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900" />
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
+</p>
+
+#### 🛠 Design & PM Tools
+<p align="left">
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
+  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=black" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
+</p>
+</details>
+
+---
+
+## 🏆 GitHub Achievements & Analytics
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Nithini-nethma&theme=tokyonight&no-frame=true&no-background=true&margin-w=15" alt="GitHub Trophies" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nithini-nethma&theme=dark&hide_border=true&bg_color=0D1117&include_all_commits=true&count_private=true&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Nithini-nethma&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
+  <img src="https://github-readme-streak-stats.vercel.app/?user=Nithini-nethma&theme=tokyonight&hide_border=true" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nithini-nethma&theme=tokyonight&hide_border=true&layout=compact" />
 </p>
 
 ---
 
 ## 🔗 Connect With Me
 
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/nethma-kasthuriarachchi" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=0D1117" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/Nithini-nethma" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&color=0D1117" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="mailto:nethmakasthuriarachchi@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=0D1117" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,50:8A2BE2,100:FF1493&height=100&section=footer" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Nithini-nethma&icon=1&color=0" />
+  <img src="https://komarev.com/ghpvc/?username=Nithini-nethma&icon=1&color=00BFFF&style=flat-square" />
 </p>
 
 <p align="center">
-  ⭐ Thanks for visiting my profile!
+  ⭐ <i>Thanks for visiting my GitHub profile! Feel free to reach out for collaborations.</i>
 </p>
