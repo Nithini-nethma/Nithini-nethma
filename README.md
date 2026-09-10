@@ -37,7 +37,7 @@
 <h3 align="left">⚡ Interactive Quick Overview</h3>
 
 <details open>
-  <summary><b>🔍 About Me</b> <i>(Click to expand / collapse)</i></summary>
+  <summary><b>🔍 About Me</b> </summary>
   <br />
 
   - 🎓 **Undergraduate**: Computing & Information Systems Student passionate about bridging software & business analytics.
@@ -52,7 +52,7 @@
 <h2 align="left">💻 Tech Stack & Tooling</h2>
 
 <details open>
-  <summary><b>🚀 Skills Breakdown</b> <i>(Click to expand / collapse)</i></summary>
+  <summary><b>🚀 Skills Breakdown</b> </summary>
   <br />
 
 #### ⚙️ Programming Languages
