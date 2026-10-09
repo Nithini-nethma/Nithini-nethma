@@ -91,25 +91,6 @@
 </p>
 </details>
 
----
-
-<h2 align="left">🏆 GitHub Achievements & Analytics</h2>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nithini-nethma&theme=github_dark" width="100%" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Nithini-nethma&theme=dark&background=0D1117&fire=00BFFF&ring=00BFFF&currStreakNum=ffffff" width="48%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Nithini-nethma&theme=github_dark" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Nithini-nethma&theme=github_dark" width="48%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nithini-nethma&theme=github_dark" width="48%" />
-</p>
-
----
 
 <h2 align="left">🐍 Contribution Snake Game</h2>
 
